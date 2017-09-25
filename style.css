@@ -1,0 +1,42 @@
+#searchBar {
+  margin: 15px 10px;
+}
+
+.tableWrapper {
+  max-height: 400px;
+  overflow: auto;
+}
+
+.building:hover {
+	cursor: pointer;
+  	color: #00F;
+  	font-weight: bold;
+}
+
+.details {
+	max-height: 400px;
+	overflow:auto;
+}
+
+.button1 {
+	font-weight: bold;
+	color: #000;
+}
+
+.button1:hover {
+	cursor: pointer;
+  	color: #F00;
+  	font-weight: bold;
+}
+
+.button2:hover {
+	cursor: pointer;
+  	color: #00F;
+  	font-weight: bold;
+}
+
+.addForm {
+	border: 3px solid black;
+	text-align: center;
+	padding: 20px;
+}
